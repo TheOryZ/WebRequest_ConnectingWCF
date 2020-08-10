@@ -1,0 +1,6 @@
+c:\users\turanka\documents\visual studio 2015\Projects\cons_WebRequest_Testing\cons_WebRequest_Testing\bin\Debug\cons_WebRequest_Testing.exe.config
+c:\users\turanka\documents\visual studio 2015\Projects\cons_WebRequest_Testing\cons_WebRequest_Testing\bin\Debug\cons_WebRequest_Testing.exe
+c:\users\turanka\documents\visual studio 2015\Projects\cons_WebRequest_Testing\cons_WebRequest_Testing\bin\Debug\cons_WebRequest_Testing.pdb
+c:\users\turanka\documents\visual studio 2015\Projects\cons_WebRequest_Testing\cons_WebRequest_Testing\obj\Debug\cons_WebRequest_Testing.csprojResolveAssemblyReference.cache
+c:\users\turanka\documents\visual studio 2015\Projects\cons_WebRequest_Testing\cons_WebRequest_Testing\obj\Debug\cons_WebRequest_Testing.exe
+c:\users\turanka\documents\visual studio 2015\Projects\cons_WebRequest_Testing\cons_WebRequest_Testing\obj\Debug\cons_WebRequest_Testing.pdb
